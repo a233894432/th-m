@@ -1,0 +1,13 @@
+{
+  "name": "th-m",
+  "version": "1.0.0",
+  "description": "A simle CLI for scaffolding th-m projects.",
+  "main": "fis-conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "szyang",
+  "license": "ISC",
+  "_from": "th-m@1.0.0",
+  "_resolved": "http://registry.npm.taobao.org/th-m/download/th-m-1.0.0.tgz"
+}
